@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/com/ChartController.java" line="197" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46368f1a-33c4-4828-b780-7043715d8395" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/FancyChart$FancyChartViewer.ic" NAME="FancyChartViewer Coverage Results" MODIFIED="1551462301924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideWarnings" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/com/MainViewer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/data/DataItem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="FxmlFile" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ALL_</find>
+      <find>Data</find>
+      <find>chart</find>
+      <find>XYC</find>
+      <find>XYChart.Da</find>
+      <find>chart.setDa</find>
+      <find>chart.getData().add</find>
+      <find>data</find>
+      <find>setXVal</find>
+      <find>chart.</find>
+      <find>chart.getD</find>
+      <find>initial</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/data/DefaultDataSet12.java" />
+        <option value="$PROJECT_DIR$/src/com/data/DefaultDataSet13.java" />
+        <option value="$PROJECT_DIR$/src/com/data/DefaultDataSet14.java" />
+        <option value="$PROJECT_DIR$/src/com/data/DefaultDataSet15.java" />
+        <option value="$PROJECT_DIR$/src/com/data/DefaultDataSet16.java" />
+        <option value="$PROJECT_DIR$/src/com/data/DefaultDataSet17.java" />
+        <option value="$PROJECT_DIR$/src/com/data/DefaultDataSet18.java" />
+        <option value="$PROJECT_DIR$/src/com/data/DefaultDataSet19.java" />
+        <option value="$PROJECT_DIR$/src/com/data/DefaultDataSet20.java" />
+        <option value="$PROJECT_DIR$/src/com/data/DefaultDataSet21.java" />
+        <option value="$PROJECT_DIR$/src/com/data/DefaultDataSet22.java" />
+        <option value="$PROJECT_DIR$/src/com/data/DefaultDataSet23.java" />
+        <option value="$PROJECT_DIR$/src/com/data/DefaultDataSet24.java" />
+        <option value="$PROJECT_DIR$/src/com/data/DefaultDataSet25.java" />
+        <option value="$PROJECT_DIR$/src/com/data/DefaultDataSet26.java" />
+        <option value="$PROJECT_DIR$/src/com/data/DefaultDataSet27.java" />
+        <option value="$PROJECT_DIR$/src/com/data/DefaultDataSet28.java" />
+        <option value="$PROJECT_DIR$/src/com/data/DefaultDataSet29.java" />
+        <option value="$PROJECT_DIR$/src/com/data/DefaultDataSet30.java" />
+        <option value="$PROJECT_DIR$/src/com/data/DefaultDataSet31.java" />
+        <option value="$PROJECT_DIR$/src/com/data/DefaultDataSet32.java" />
+        <option value="$PROJECT_DIR$/src/com/data/DefaultDataSet33.java" />
+        <option value="$PROJECT_DIR$/src/com/data/DefaultDataSet34.java" />
+        <option value="$PROJECT_DIR$/src/com/ImportExportPanel.fxml" />
+        <option value="$PROJECT_DIR$/src/com/ButtonsController.java" />
+        <option value="$PROJECT_DIR$/src/com/TabbedTablesController.java" />
+        <option value="$PROJECT_DIR$/src/com/TabbedTables.fxml" />
+        <option value="$PROJECT_DIR$/src/com/TabTable.fxml" />
+        <option value="$PROJECT_DIR$/src/com/Buttons.fxml" />
+        <option value="$PROJECT_DIR$/src/com/events/DataItemImportEvent.java" />
+        <option value="$PROJECT_DIR$/src/com/data/graphs/graph1.csv" />
+        <option value="$PROJECT_DIR$/src/com/data/graphs10/graph1.csv" />
+        <option value="$PROJECT_DIR$/src/com/FMXL.java" />
+        <option value="$PROJECT_DIR$/src/com/data/DefaultDataSet35.java" />
+        <option value="$PROJECT_DIR$/src/com/data/DefaultDataSet36.java" />
+        <option value="$PROJECT_DIR$/src/com/data/DefaultDataSet37.java" />
+        <option value="$PROJECT_DIR$/src/com/data/DefaultDataSet38.java" />
+        <option value="$PROJECT_DIR$/FancyChart.iml" />
+        <option value="$PROJECT_DIR$/src/com/data/DefaultDataSet3.java" />
+        <option value="$PROJECT_DIR$/src/com/FancyChart.fxml" />
+        <option value="$PROJECT_DIR$/src/com/FancyChartController.java" />
+        <option value="$PROJECT_DIR$/resources/css/fancychart.css" />
+        <option value="$PROJECT_DIR$/src/com/ChartController.java" />
+        <option value="$PROJECT_DIR$/src/com/conversion/ReadFile.java" />
+        <option value="$PROJECT_DIR$/src/com/data/DataToCSV.java" />
+        <option value="$PROJECT_DIR$/src/com/data/DefaultDataSet1.java" />
+        <option value="$PROJECT_DIR$/resources/css/chart.css" />
+        <option value="$PROJECT_DIR$/src/com/data/DataItem.java" />
+        <option value="$PROJECT_DIR$/src/com/data/DataItemDao.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/test/com/MainViewer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1366" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ChartEK" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChartEK" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ChartEK" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChartEK" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\erykk\Downloads\fancy-chart-master\src\com\data\graphs" />
+      <recent name="C:\Users\erykk\Downloads\fancy-chart-master\src" />
+      <recent name="C:\Users\erykk\Downloads\fancy-chart-master\test\com" />
+      <recent name="C:\Users\erykk\Downloads\fancy-chart-master\src\com\conversion" />
+      <recent name="C:\Users\erykk\Downloads\fancy-chart-master\src\de\tesis\dynaware\javafx\fancychart\data" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\erykk\Downloads\fancy-chart-master\src\com\data\graphs320" />
+      <recent name="C:\Users\erykk\Downloads\fancy-chart-master\src\com\data\graphs240" />
+      <recent name="C:\Users\erykk\Downloads\fancy-chart-master\src\com\data\graphs160" />
+      <recent name="C:\Users\erykk\Downloads\fancy-chart-master\src\com\data\graphs140" />
+      <recent name="C:\Users\erykk\Downloads\fancy-chart-master\src\com\data\graphs120" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.data" />
+      <recent name="de.tesis.dynaware.javafx.fancychart.data" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainViewer" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.MainViewer" />
+      <module name="Chart" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46368f1a-33c4-4828-b780-7043715d8395" name="Default Changelist" comment="" />
+      <created>1551210518834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551210518834</updated>
+      <workItem from="1551210521316" duration="5866000" />
+      <workItem from="1551440377790" duration="19400000" />
+      <workItem from="1551476659933" duration="16423000" />
+      <workItem from="1551552742455" duration="3230000" />
+      <workItem from="1551617519259" duration="11531000" />
+      <workItem from="1551641893304" duration="3170000" />
+      <workItem from="1551721312158" duration="10374000" />
+      <workItem from="1551737543871" duration="1000000" />
+      <workItem from="1551738597073" duration="6250000" />
+      <workItem from="1551745252041" duration="1065000" />
+      <workItem from="1551746427152" duration="4540000" />
+      <workItem from="1551789446770" duration="1250000" />
+      <workItem from="1551806586283" duration="4678000" />
+      <workItem from="1551825543470" duration="1055000" />
+      <workItem from="1551988982132" duration="14248000" />
+      <workItem from="1552003481883" duration="2050000" />
+      <workItem from="1552005922428" duration="12709000" />
+      <workItem from="1552083434544" duration="1883000" />
+      <workItem from="1552085419330" duration="1983000" />
+      <workItem from="1552087694679" duration="655000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="123360000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info id="Structure" order="0" sideWeight="0.50239235" side_tool="true" weight="0.16641453" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="4" sideWeight="0.49760765" visible="true" weight="0.18003026" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3271028" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" weight="0.36070853" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37850466" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32850242" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5015129" side_tool="true" weight="0.36714977" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3268921" />
+      <window_info anchor="bottom" id="Duplicate detector" order="13" weight="0.32850242" />
+      <window_info anchor="bottom" id="Problems" order="14" weight="0.32850242" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17776097" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32850242" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.12560387" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993559" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32850242" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.12560387" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32850242" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>k=120</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/resources/data/graphs10/graph13.csv" />
+    <entry file="file://$PROJECT_DIR$/resources/data/graphs30/graph3.csv" />
+    <entry file="file://$PROJECT_DIR$/resources/data/graphs10/graph17.csv" />
+    <entry file="file://$PROJECT_DIR$/resources/data/graphs10/graph11.csv" />
+    <entry file="file://$PROJECT_DIR$/resources/data/graphs100/rirm1/graph1.csv" />
+    <entry file="file://$PROJECT_DIR$/resources/data/graphs80/rirm24/graph2.csv" />
+    <entry file="file://$PROJECT_DIR$/resources/data/graphs10/graph29.csv" />
+    <entry file="file://$PROJECT_DIR$/resources/data/graphs15/rirm2/graph3.csv" />
+    <entry file="file://$PROJECT_DIR$/resources/data/graphs160/rirm5/graph4.csv" />
+    <entry file="file://$PROJECT_DIR$/resources/data/graphs10/graph2.csv" />
+    <entry file="file://$PROJECT_DIR$/resources/data/graphs10/graph36.csv" />
+    <entry file="file://$PROJECT_DIR$/resources/data/graphs10/graph1.csv" />
+    <entry file="file://$PROJECT_DIR$/resources/data/graphs10/graph37.csv" />
+    <entry file="file://$PROJECT_DIR$/resources/data/graphs10/graph35.csv" />
+    <entry file="file://$PROJECT_DIR$/resources/data/graphs10/graph34.csv" />
+    <entry file="file://$PROJECT_DIR$/resources/data/graphs20/rirm22/graph38.csv" />
+    <entry file="file://$PROJECT_DIR$/resources/data/graphs10/graph38.csv" />
+    <entry file="file://$PROJECT_DIR$/src/com/data/DefaultDataSet34.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/data/DefaultDataSet36.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/data/DefaultDataSet37.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/data/DefaultDataSet38.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/data/DefaultDataSet35.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/src.zip!/java/net/URL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1838">
+          <caret line="824" column="18" selection-start-line="824" selection-start-column="18" selection-end-line="824" selection-end-column="18" />
+          <folding>
+            <element signature="e#30877#30878#0" expanded="true" />
+            <element signature="e#30904#30905#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/src.zip!/java/lang/reflect/InvocationTargetException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="28" column="28" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/data/graphs25/rirm3/graph3.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/javafx-src.zip!/javafx/collections/FXCollections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="304" selection-start-line="304" selection-end-line="304" />
+          <folding>
+            <element signature="e#11668#11669#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/javafx-src.zip!/javafx/fxml/FXMLLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="2584" selection-start-line="2584" selection-end-line="2584" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/data/graphs15/rirm3/graph2.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/data/DefaultDataSet3.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/src.zip!/java/nio/ByteBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="322" column="6" lean-forward="true" selection-start-line="322" selection-start-column="5" selection-end-line="322" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="237" column="12" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/data/graphs15/rirm2/graph1.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/javafx-src.zip!/com/sun/javafx/application/LauncherImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="862" selection-start-line="862" selection-end-line="862" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/data/graphs15/rirm1/graph2.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Chart.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="83" selection-start-line="18" selection-start-column="83" selection-end-line="18" selection-end-column="83" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/data/DefaultDataSet1.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/data/DefaultDataSet2.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/events/DataItemImportEvent.java" />
+    <entry file="file://$PROJECT_DIR$/resources/css/chart.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-569">
+          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/data/DataToCSV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-464">
+          <caret line="30" column="52" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/conversion/ReadFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-484">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/data/DataItemDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ChartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2580">
+          <caret line="77" column="41" selection-start-line="77" selection-start-column="41" selection-end-line="77" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5747#5748#0" expanded="true" />
+            <element signature="e#5769#5770#0" expanded="true" />
+            <element signature="e#6589#6590#0" expanded="true" />
+            <element signature="e#6611#6612#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/.name">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/dictionaries/erykk.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2550" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chart.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/MainViewer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/data/DataItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>FancyChart</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
