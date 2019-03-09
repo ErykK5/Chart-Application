@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/src/com/ChartController.java" line="197" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46368f1a-33c4-4828-b780-7043715d8395" name="Default Changelist" comment="" />
+    <list default="true" id="46368f1a-33c4-4828-b780-7043715d8395" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -167,6 +169,12 @@
               <item name="ChartEK" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ChartEK" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChartEK" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -259,12 +267,12 @@
       <workItem from="1552005922428" duration="12709000" />
       <workItem from="1552083434544" duration="1883000" />
       <workItem from="1552085419330" duration="1983000" />
-      <workItem from="1552087694679" duration="655000" />
+      <workItem from="1552087694679" duration="3341000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123360000" />
+    <option name="totallyTimeSpent" value="126046000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
