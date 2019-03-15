@@ -19,8 +19,8 @@ public class MainViewer extends Application {
 	@Override
 	public void start(final Stage primaryStage) throws Exception {
 
-		DataToCSV dataToCSV = new DataToCSV(); //Only for first use of application
-		dataToCSV.start();
+		//DataToCSV dataToCSV = new DataToCSV(); //Only for first use of application
+		//dataToCSV.start();
 
 		primaryStage.setTitle("JavaFX");
 		primaryStage.setMinHeight(500);
